@@ -1,0 +1,20 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "Covid Statistics",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Anudeep Gadige",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "chart.js": "^3.6.1",
+    "core-js": "^3.19.2",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
