@@ -1,2 +1,2 @@
 # Covid Statistics
-[Live link](https://covidvirus-stats.netlify.app/)
+[Live link](https://covidvirus-statistics.netlify.app/)
