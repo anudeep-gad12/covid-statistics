@@ -1,6 +1,6 @@
-# Project Title
+# Covid Statistics
 
-Covid-Statistics is a web app that displays real time data on Covid-19 cases around the world and visualizes total infected and death cases of over 150+ countries.
+Covid-Statistics is a web app that displays real time data on Covid-19 cases around the world with trend analysis of 150+ countries.
 
 ## Tech Stack
 
