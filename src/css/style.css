@@ -358,3 +358,19 @@ Table
   height: 2rem;
   width: 2rem;
 }
+
+.error-modal {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: var(--main-primary-color-dark);
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.error-modal--content {
+  padding: 10px 20px;
+}

@@ -47,7 +47,7 @@ const getCountriesData = async function () {
       state.countries.countryList.push(country.name);
     });
   } catch (err) {
-    console.log(err);
+    // console.log(err);
   }
 };
 
